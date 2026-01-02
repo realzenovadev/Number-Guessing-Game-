@@ -47,3 +47,12 @@ After each game, you can **play again or quit**.
 3. Run the file using:
    ```bash
    python filename.py
+4. Follow the on-screen instructions.
+
+## What I learned from this project 
+- I learned how to **write functions** to organize my code better.  
+- I learned how to **give hints to the player** based on their guesses.  
+- I learned how to **handle errors** so the game doesn’t crash when someone enters the wrong input.  
+- I learned how to **track streaks** and make the game more fun.  
+- I learned how to **use loops and conditions** to control the game flow.  
+- I learned how to **make a small interactive game** that feels fun to play.
